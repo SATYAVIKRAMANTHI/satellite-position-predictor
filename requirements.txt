@@ -1,0 +1,23 @@
+# streamlit>=1.32.0
+# requests>=2.31.0
+# sgp4>=2.22
+# skyfield>=1.48
+# numpy>=1.26.0
+# pandas>=2.1.0
+# scikit-learn>=1.4.0
+# xgboost>=2.0.0
+# plotly>=5.19.0
+# joblib>=1.3.0
+
+streamlit>=1.32.0
+requests>=2.31.0
+sgp4>=2.22
+skyfield>=1.48
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+plotly>=5.19.0
+joblib>=1.3.0
+folium
+streamlit-folium
