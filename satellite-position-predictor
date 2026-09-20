@@ -1,0 +1,43 @@
+# 🛰️ Satellite Position Predictor — ML System
+
+I have developed an ML-powered satellite position prediction system using Python, Streamlit, SGP4, Skyfield, Scikit-learn, and XGBoost.
+
+## 🚀 Features
+
+- Live satellite TLE data fetching from CelesTrak
+- Satellite position calculation using SGP4 and Skyfield
+- Interactive world map visualization
+- Satellite ground-track visualization
+- Machine Learning based future position prediction
+- Random Forest and XGBoost models
+- Model accuracy evaluation using MAE, RMSE, and R²
+- Satellite information and TLE details
+- Future latitude, longitude, altitude, and speed prediction
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SGP4
+- Skyfield
+- Plotly
+- Joblib
+- CelesTrak API
+
+## 📂 Project Structure
+
+```text
+satellite-position-predictor/
+├── app.py
+├── tle_fetcher.py
+├── sgp4_propagator.py
+├── ml_model.py
+├── feature_engineering.py
+├── utils.py
+├── test_integration.py
+├── requirements.txt
+└── README.md
